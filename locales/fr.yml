@@ -83,6 +83,30 @@ fr:
     ttc: TTC
     payment: Payable en 3 mensualités de 240€ TTC
 
+  faq:
+    title: Des questions ?
+    questions:
+      material:
+        question: Quel matériel il te faut pour assister aux cours ?
+        answer: Il faut apporter ton ordinateur personnel, sur place tu auras un bureau ajustable et un écran.
+      cost:
+        question: Combien ça coûte d'étudier à la Muxu Academy ?
+        answer: "Design d'interface ou developpement : 720€ TTC<br>Trimestre payable en 3 mensualités de 240€ TTC.<br>Un nom de domaine d'une valeur de 50€ est offert pour toute inscription."
+      course:
+        question: Que vas-tu apprendre ?
+        answer: Etude du traitement d'une demande de design d'interface, depuis le brief jusqu'à la présentation. Le cours peut s'appuyer sur un projet personnel ou un exemple choisi au hasard.
+      payment:
+        question: Quels sont les types de paiement acceptés ?
+        answer: "-"
+      refund:
+        question: Les cours sont-ils remboursables ?
+        answer: Si tu te rends compte à l'issue du premier cours que la Muxu Academy ne correspond pas exactement à tes attentes ou que l'envie de prend soudainement de partir vivre en Australie, on te rembourse le montant correspondant aux cours auxquels tu ne pourras pas assister.
+      difference:
+        question: Qu'est-ce que la Muxu Academy a de différent des autres écoles de design ?
+        answer: Chez Muxu.Muxu on est adeptes de la transparence. On souhaite partager au maximum les connaissances à notre portée et les rendre accessibles à tous. On croit au potentiel de nos élèves et on met un point d'honneur à les aider à le développer. Choisir la Muxu Academy c'est s'assurer de recevoir un  enseignement individualisé et motivant, toujours dans la bonne humeur !
+      muxu:
+        question: Qui sommes-nous ?
+        answer: Muxu.Muxu est un studio de création graphique qui aident les start-up et les entreprises à imaginer, concevoir et lancer leur produit ou leur projet. On développe aussi nos propres produits.<br>L'esprit Muxu.Muxu en un mot ? Transparence. On s'attache avant tout à démocratiser la technologie à notre disposition et à développer de chouettes produits, accessibles à tous. On travaille toujours dans la détente et la bonne humeur !
   footer:
     details:
       track: Track Design
