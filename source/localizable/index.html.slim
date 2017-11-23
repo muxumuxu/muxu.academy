@@ -1,2 +1,8 @@
-.wrapper 
-  h1 = t 'hero.title'
+.hero
+  .wrapper
+    .content
+      h3 = t 'hero.track'
+      h1 = t 'hero.title'
+      = link_to t('join.link'), class:"purple-button"
+        = t 'hero.join.title'
+      p.smaller = t 'hero.join.more'
