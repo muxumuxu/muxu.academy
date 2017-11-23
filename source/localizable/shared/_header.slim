@@ -1,10 +1,10 @@
 header.flex
-  .left 
+  .left
     = link_to "/", class: "logo"
-      = image_tag "logo.svg'"
+      = image_tag "logo.svg"
   .right
-    ul 
+    ul
       - t('navigation').each do |id, item|
-       li 
+       li
           = link_to item[:link]
             = item[:title]
