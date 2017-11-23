@@ -42,7 +42,7 @@ fr:
     description: Tu vas bientôt terminer tes études ? Tu viens d'être embauché en tant que junior dans une agence ou bien tu commences une activité en autoentrepreneur ?
   workplace:
     title: Bienvenue au Muxu.Plex
-    where: Cadre d'étude
+    subtitle: Cadre d'étude
   footer:
     details:
       track: Track Design
