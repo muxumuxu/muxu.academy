@@ -1,14 +1,14 @@
 fr:
   navigation:
     program:
-      title: Program
-      link: "#"
+      title: Programme
+      link: "/program"
     pricing:
       title: Tarifs
-      link: "#"
+      link: "/pricing"
     faq:
       title: FAQ
-      link: "#"
+      link: "/faq"
     join:
       title: Postuler
       link: "#"
