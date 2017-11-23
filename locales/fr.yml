@@ -11,14 +11,14 @@ fr:
       link: "/faq"
     join:
       title: Postuler
-      link: "#"
+      link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
 
   hero:
     title: Approfondi le design de produit en pratiquant régulièrement avec l’équipe Muxu.Muxu
     track: Design de produit
     join:
       title: Postule pour 12 semaines de formation non intensives
-      link: "#"
+      link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
       more: Oui oui, non intensives, l'idée est que tu puisses apprendre et surtout appliquer.
 
   about:
@@ -50,7 +50,6 @@ fr:
 
   program:
     title: Design d'interface
-    subtitle: "Les cours se divisent en deux grands axes :"
     description: 2h de cours par semaine du 1er janvier 2017 au 1er mars 2017<br><br>Etude du traitement d'une demande de design d'interface, depuis le brief jusqu'à la présentation. Le cours peut s'appuyer sur un projet personnel ou un exemple choisi au hasard.
     details:
       brief:
@@ -77,6 +76,13 @@ fr:
         title: Dribbble
         link: https://dribbble.com/lucchaissac
 
+  pricing:
+    title: Un prix abordable
+    description: Nous tenons à ce que la Muxu Academy soit le plus abordable possible pour des étudiants. Nous n’avons pas de bourse mais nous restons ouvert à la discussion.<br><br>Un nom de domaine d'une valeur de 50€ est offert pour toute inscription.
+    price: 720€
+    ttc: TTC
+    payment: Payable en 3 mensualités de 240€ TTC
+
   footer:
     details:
       track: Track Design
@@ -95,6 +101,6 @@ fr:
       title: Rejoins la Muxu.Academy
       more:
         title: Postuler maintenant
-        link: "#"
+        link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
     muxu:
       title: powered by <a href="https://muxumuxu.com" target="_blank">Muxu.Muxu</a>
