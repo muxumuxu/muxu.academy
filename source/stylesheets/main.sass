@@ -10,6 +10,7 @@ body
   background: $white
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 
+
 // Texts
 
 h1, h2
@@ -30,6 +31,7 @@ p
     font-size: 13px
     line-height: 15px
 
+
 // Links and buttons
 
 a
@@ -43,6 +45,7 @@ a
   border-radius: 5px
   font-size: 18px
   font-weight: 600
+
 
 // Images
 
@@ -66,6 +69,7 @@ a
   width: 138px
   height: 45px
 
+
 // Common
 
 .wrapper
@@ -77,6 +81,7 @@ a
   display: flex
   flex-direction: row
   justify-content: space-between
+
 
 // Header
 
@@ -99,6 +104,7 @@ header
 
       a
         color: $purple
+
 
 // Footer
 
@@ -137,7 +143,7 @@ footer
       max-width: 250px
       margin-top: 3px
     a
-      border-bottom: 1px solid $white
+      text-decoration: underline
 
   .plan
     width: 100%
@@ -165,9 +171,10 @@ footer
 
     a
       color: $white
-      border-bottom: 1px solid $white
+      text-decoration: underline
 
-// Sections
+
+// Sections - Home
 
 .hero
   background: url(../images/hero-illustration.png) no-repeat right 40px bottom
@@ -235,3 +242,52 @@ footer
 
   h3
     margin-bottom: 40px
+
+
+// Sections - Program
+
+.program
+  justify-content: flex-start
+
+  .left
+    max-width: 400px
+    margin-right: 115px
+
+  h1, h3
+    margin-bottom: 40px
+
+  a
+    text-decoration: underline
+
+  ul
+    margin-top: 145px
+
+  li
+    color: $purple
+    margin-bottom: 15px
+    font-weight: 600
+
+    &:before
+      content: '• '
+      padding-right: 5px
+      color: $purple
+
+  .teacher
+    margin-top: 60px
+    justify-content: flex-start
+
+  .teacher-picture
+    width: 77px
+    height: 77px
+    border-radius: 5px
+    margin-right: 20px
+
+  .teacher-name
+    font-weight: 600
+    line-height: 16px
+    margin-bottom: 16px
+
+  .teacher-job
+    font-size: 16px
+    line-height: 24px
+    margin-bottom: 5px

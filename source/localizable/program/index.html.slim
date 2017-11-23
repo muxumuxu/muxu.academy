@@ -1,0 +1,19 @@
+.wrapper.program.flex
+  .left
+    h3 = t 'program.subtitle'
+    h1 = t 'program.title'
+    p = t 'program.description'
+    .teacher.flex
+      = image_tag "luc.png", class: "teacher-picture"
+      .div
+        p.teacher-name = t 'program.teacher.name'
+        p.teacher-job = t 'program.teacher.job'
+        = link_to t('program.teacher.twitter.link'), target: "_blank"
+          = t 'program.teacher.twitter.title'
+        span = " - "
+        = link_to t('program.teacher.dribbble.link'), target: "_blank"
+          = t 'program.teacher.dribbble.title'
+  .right 
+    ul 
+      - t('program.details').each do |id, item|
+        li = item[:title]
