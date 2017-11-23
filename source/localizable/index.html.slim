@@ -3,7 +3,7 @@
     .content
       h3 = t 'hero.track'
       h1 = t 'hero.title'
-      = link_to t('join.link'), class:"purple-button"
+      = link_to t('join.link'), class: "purple-button"
         = t 'hero.join.title'
       p.smaller = t 'hero.join.more'
 
@@ -17,3 +17,17 @@
       - t('about.sections').each do |id, section|
         h3 = section[:title]
         p = section[:description]
+
+.wrapper.who
+  .flex
+    .content 
+      h3 = t 'team.company'
+      h2 = t 'team.title'
+      p = t 'team.description'
+    = image_tag "team.png", class: "team"
+  .clients.flex
+    = image_tag "trace-logo.png", class: "trace"
+    = image_tag "wanted-logo.png", class: "wanted"
+    = image_tag "lattice-logo.png", class: "lattice"
+    = image_tag "reech-logo.png", class: "reech"
+    = image_tag "backtracks-logo.png", class: "backtracks"
