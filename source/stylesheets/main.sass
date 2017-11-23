@@ -1,0 +1,161 @@
+*
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  outline: none
+
+html
+  background: $light-yellow
+
+body
+  background: $white
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
+
+// Texts
+
+h1, h2
+  font-size: 32px
+  line-height: 40px
+  font-weight: 600
+
+h3
+  font-size: 18px
+  line-height: 21px
+  font-weight: 600
+
+p
+  font-size: 18px
+  line-height: 28px
+
+  &.smaller
+    font-size: 13px
+    line-height: 15px
+
+// Links and buttons
+
+a
+  text-decoration: none
+  color: $black
+
+.purple-button
+  background: $purple
+  color: $white
+  padding: 18px 25px
+  border-radius: 5px
+  font-size: 18px
+  font-weight: 600
+
+// Images
+
+.trace
+  width: 83px
+  height: 19px
+
+.wanted
+  width: 108px
+  height: 31px
+
+.lattice
+  width: 135px
+  height: 25px
+
+.reech
+  width: 108px
+  height: 17px
+
+.backtracks
+  width: 138px
+  height: 45px
+
+// Common
+
+.wrapper
+  max-width: 950px
+  margin: 0 auto
+  padding: 120px 0
+
+.flex
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+
+// Sections
+
+header
+  max-width: 950px
+  margin: 0 auto
+  padding: 20px 0
+
+  li
+    display: inline-block
+    text-transform: uppercase
+    letter-spacing: 1.73px
+    font-size: 13px
+    font-weight: 600
+    margin-right: 40px
+
+    &:last-child
+      margin: 0
+
+      a
+        color: $purple
+
+
+.hero
+  background: url(../images/hero-illustration.png) no-repeat right 40px bottom
+  background-size: 679px 477px
+
+  .content
+    max-width: 530px
+
+  h3
+    margin-bottom: 40px
+
+  h1
+    max-width: 480px
+    margin-bottom: 50px
+
+  p
+    margin-top: 50px
+
+
+.about
+  background: $light-yellow
+
+  .left
+    max-width: 370px
+
+    h2
+      margin-bottom: 40px
+
+    h3
+      margin-bottom: 40px
+
+  .right
+    max-width: 465px
+    padding-top: 65px
+
+    h3
+      margin-bottom: 10px
+
+    p
+      margin-bottom: 40px
+      &:last-child
+        margin: 0
+
+
+.who
+
+  .content
+    max-width: 370px
+
+  h3, h2
+    margin-bottom: 40px
+
+  .team
+    width: 510px
+    height: 310px
+    border-radius: 10px
+
+  .clients
+    align-items: center
+    margin-top: 30px

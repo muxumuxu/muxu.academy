@@ -1,2 +1,62 @@
 en:
-  title: Welcome !
+  navigation:
+    program:
+      title: Program
+      link: "#"
+    pricing:
+      title: Tarifs
+      link: "#"
+    faq:
+      title: FAQ
+      link: "#"
+    join:
+      title: Postuler
+      link: "#"
+  hero:
+    title: Approfondi le design de produit en pratiquant régulièrement avec l’équipe Muxu.Muxu
+    track: Design de produit
+    join:
+      title: Postule pour 12 semaines de formation non intensives
+      link: "#"
+      more: Oui oui, non intensives, l'idée est que tu puisses apprendre et surtout appliquer.
+  about:
+    title: Un espace pour se développer et explorer
+    description: Tu vas bientôt terminer tes études ? Tu viens d'être embauché en tant que junior dans une agence ou bien tu commences une activité en autoentrepreneur ?
+    studio:
+      title: Pense comme en studio
+      description: Apprendre chez Muxu.Muxu c'est accéder aux conseils et à l'expérience d'une team chevronnée, dans la bonne humeur et la détente !
+    methodology:
+      title: Adopte une méthodologie
+      description: Soutient, méthodologie, conseil, perfectionnement, la muxu Academy te donne le coup de pouce dont tu as besoin et t'entoure d'une équipe aussi cool que professionnelle !
+    workplace:
+      title: Un cadre de rêve
+      description: Les élèves sont accueillis dans les locaux de l'agence Muxu.Muxu, parmis cactus et crayon géant.
+    results:
+      title: Petits groupes, gros résultats
+      description: Les séances se font par groupes de 6 maximum pour favoriser l'échange et la transparence.
+  team:
+    title: Qui sommes-nous ?
+    company: Muxu.Muxu
+    description: Tu vas bientôt terminer tes études ? Tu viens d'être embauché en tant que junior dans une agence ou bien tu commences une activité en autoentrepreneur ?
+  workplace:
+    title: Bienvenue au Muxu.Plex
+    where: Cadre d'étude
+  footer:
+    details:
+      track: Track Design
+      date: "01 janvier 2017 / 01 mars 2017"
+      email:
+        title: hello@muxu.academy
+        link: hello@muxu.academy
+        adress: 196, rue Guillaume Leblanc 33000 Bordeaux
+        tel: "05 32 88 01 93"
+        plan: Plan
+        bus: Bus 9 Stade Chaban Delmas
+        tram: Tram A Stade Chaban Delmas
+    join:
+      title: Rejoins la Muxu.Academy
+      more:
+        title: Postuler maintenant
+        link: "#"
+    muxu:
+      title: Powered by <a href="https://muxumuxu.com" target="_blank">Muxu.Muxu</a>

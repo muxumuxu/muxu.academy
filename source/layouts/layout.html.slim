@@ -1,11 +1,11 @@
 doctype html
 html
   head
-    title = t('title')
+    title = "Muxu.Academy | Design de Produit"
 
     meta content=('text/html; charset=UTF-8') http-equiv='Content-Type'
     meta charset='utf-8'
-    meta name='description' content='My application description'
+    meta name='description' content='01 Janvier - 01 Mars 2017 | Approfondi le design de produit en pratiquant régulièrement avec l’équipe Muxu.Muxu.'
     meta content='width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0' name='viewport'
     meta name='theme-color' content='#ffffff'
 
@@ -13,5 +13,10 @@ html
     = stylesheet_link_tag 'all'
 
   body
+    = partial 'shared/header'
+    
     = yield
+    
+    = partial 'shared/footer'
+    
     = javascript_include_tag 'site'
