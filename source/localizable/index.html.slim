@@ -6,3 +6,14 @@
       = link_to t('join.link'), class:"purple-button"
         = t 'hero.join.title'
       p.smaller = t 'hero.join.more'
+
+.about
+  .wrapper.flex
+    .left 
+      h3 = t 'about.subtitle'
+      h2 = t 'about.title'
+      p = t 'about.description'
+    .right
+      - t('about.sections').each do |id, section|
+        h3 = section[:title]
+        p = section[:description]

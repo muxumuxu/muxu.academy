@@ -44,20 +44,24 @@ a
   font-size: 18px
   font-weight: 600
 
-//Sections
+// Common
 
 .wrapper
   max-width: 950px
   margin: 0 auto
   padding: 120px 0
 
+.flex
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+
+// Sections
+
 header
   max-width: 950px
   margin: 0 auto
   padding: 20px 0
-  display: flex
-  flex-direction: row
-  justify-content: space-between
 
   li
     display: inline-block
@@ -89,3 +93,27 @@ header
 
   p
     margin-top: 50px
+
+.about
+  background: $light-yellow
+
+  .left
+    max-width: 370px
+
+    h2
+      margin-bottom: 40px
+
+    h3
+      margin-bottom: 40px
+
+  .right
+    max-width: 465px
+    padding-top: 65px
+
+    h3
+      margin-bottom: 10px
+
+    p
+      margin-bottom: 40px
+      &:last-child
+        margin: 0
