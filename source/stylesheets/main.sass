@@ -38,8 +38,8 @@ a
   text-decoration: none
   color: $black
 
-.purple-button
-  background: $purple
+.green-button
+  background: $green
   color: $white
   padding: 18px 25px
   border-radius: 5px
@@ -47,7 +47,7 @@ a
   font-weight: 600
 
   &:hover
-    background: $light-purple
+    background: $darker-green
 
 
 // Images
@@ -72,11 +72,18 @@ a
   width: 138px
   height: 45px
 
+.office-1, .office-2
+  width: 464px
+  height: 315px
+
+.office-3
+  width: 464px
+  height: 649px
 
 // Common
 
 .wrapper
-  max-width: 990px
+  max-width: 950px
   margin: 0 auto
   padding: 120px 20px
 
@@ -106,76 +113,41 @@ header
       margin: 0
 
       a
-        color: $purple
+        color: $green
 
 
 // Footer
 
 footer
+  background: $light-yellow
 
-  .top
-    height: 515px
-    display: flex
-
-  .left
-    width: 50%
-    height: 100%
-    background: url(../../images/footer-picture.png) no-repeat
-    background-size: cover
-
-  .right
-    width: 50%
-    height: 100%
-
-  .details
-    width: 100%
-    box-sizing: border-box
-    height: 50%
-    background: $purple
-    color: $white
-    padding: 30px 40px
+  .wrapper
+    background: url(../images/background-footer.png) no-repeat right bottom
+    background-size: 323px 337px
+    padding: 60px 20px
 
   .more
-    margin-top: 20px
+    margin: 20px 0 50px
     display: flex
 
     p, a
       font-size: 16px
       line-height: 21px
-      color: $white
       max-width: 250px
       margin-top: 3px
+
     a
       text-decoration: underline
-
-  .plan
-    width: 100%
-    height: 50%
-    background: url(../../images/plan.png) no-repeat
-    background-size: cover
-
-  .bottom
-    background: $black
-    text-align: center
-    color: $white
-    padding: 60px 0 30px
-
-    h2
-      margin-bottom: 60px
 
   .credits
-    width: 85%
-    font-size: 16px
-    text-align: center
-    padding-top: 30px
-    margin: 90px auto 0
-    border-top: 1px solid rgba(255,255,255,0.6)
-    opacity: 0.8
+    font-size: 14px
+    line-height: 24px
+    color: #A6A6A6
+    margin-top: 50px
 
     a
-      color: $white
+      color: #A6A6A6
       text-decoration: underline
-
 
 // Sections - Home
 
@@ -247,8 +219,17 @@ footer
 .workplace
   text-align: center
 
+  h2
+    margin-bottom: 55px
+
   h3
     margin-bottom: 40px
+
+  img
+    border-radius: 10px
+
+  .left
+    flex-direction: column
 
 
 // Sections - Program
@@ -270,14 +251,14 @@ footer
     margin-top: 89px
 
   li
-    color: $purple
+    color: $green
     margin-bottom: 15px
     font-weight: 600
 
     &:before
       content: '• '
       padding-right: 5px
-      color: $purple
+      color: $green
 
   .teacher
     margin-top: 60px
@@ -316,7 +297,7 @@ footer
     margin-top: 65px
 
   .price
-    color: $purple
+    color: $green
     font-size: 69px
     line-height: 83px
     position: relative

@@ -113,7 +113,7 @@ fr:
       date: "01 janvier 2017 / 01 mars 2017"
       email:
         title: hello@muxu.academy
-        link: hello@muxu.academy
+        link: mailto:hello@muxu.academy
       address: 196, rue Guillaume Leblanc 33000 Bordeaux
       tel: "05 32 88 01 93"
       plan:
@@ -122,9 +122,7 @@ fr:
       bus: Bus 9 Stade Chaban Delmas
       tram: Tram A Stade Chaban Delmas
     join:
-      title: Rejoins la Muxu.Academy
-      more:
-        title: Postuler maintenant
-        link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
-    muxu:
-      title: powered by <a href="https://muxumuxu.com" target="_blank">Muxu.Muxu</a>
+      title: Postuler maintenant
+      link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
+    muxu: |
+      powered by <a href="https://muxumuxu.com" target="_blank">Muxu.Muxu</a>
