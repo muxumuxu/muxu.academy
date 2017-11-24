@@ -31,6 +31,8 @@ p
     font-size: 13px
     line-height: 15px
 
+img
+  max-width: 100%
 
 // Links and buttons
 
@@ -328,6 +330,10 @@ footer
 
 @media screen and (max-width: 1050px)
 
+  .office-1, .office-2, .office-3
+    width: 510px
+    height: auto
+
   .wrapper
     padding: 70px 20px
 
@@ -374,11 +380,25 @@ footer
     .team
       margin: 30px auto 0
 
+  .workplace
+
+    h2
+      margin-bottom: 10px
+
+    .pictures
+      flex-direction: column
+
+    img
+      margin: 30px auto 0
+
   .faq
 
     .question
       max-width: none
       width: 100%
+
+      &:last-child
+        margin: 0
 
   footer
 
@@ -393,3 +413,17 @@ footer
       p, a
         font-size: 14px
         line-height: 18px
+
+@media screen and (max-width: 800px)
+
+  footer
+
+    .wrapper
+      background: $light-yellow
+      max-width: 510px
+
+  .pricing
+
+    h1
+
+      margin-bottom: 8px
