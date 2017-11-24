@@ -78,10 +78,11 @@ fr:
 
   pricing:
     title: Un prix abordable
-    description: Nous tenons à ce que la Muxu Academy soit le plus abordable possible pour des étudiants. Nous n’avons pas de bourse mais nous restons ouvert à la discussion.<br><br>Un nom de domaine d'une valeur de 50€ est offert pour toute inscription.
+    description: Nous tenons à ce que la Muxu Academy soit le plus abordable possible pour des étudiants. Nous n’avons pas de bourse mais nous restons ouvert à la discussion.
     price: 720€
     ttc: TTC
-    payment: Payable en 3 mensualités de 240€ TTC
+    payment: Payable en 3 mensualités de 240€ TTC.
+    domain: Un nom de domaine d'une valeur de 50€ est offert pour toute inscription.
 
   faq:
     title: Des questions ?
