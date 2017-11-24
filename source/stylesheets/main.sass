@@ -391,6 +391,11 @@ footer
     img
       margin: 30px auto 0
 
+  .program
+
+    li
+      line-height: 21px
+
   .faq
 
     .question
@@ -416,14 +421,68 @@ footer
 
 @media screen and (max-width: 800px)
 
+  .pricing
+
+    h1
+
+      margin-bottom: 8px
+
   footer
 
     .wrapper
       background: $light-yellow
       max-width: 510px
 
+@media screen and (max-width: 500px)
+
+  .hero
+
+    .illustration
+      width: 100%
+      height: auto
+
+    .green-button
+      display: inline-block
+      text-align: center
+
+  .program
+    flex-direction: column
+
+    .left
+      max-width: none
+      width: 100%
+
+    .teacher
+      align-items: center
+
   .pricing
+    flex-direction: column
 
-    h1
+    .right
+      margin-top: 50px
 
-      margin-bottom: 8px
+    .left
+      max-width: none
+      width: 100%
+
+  .who
+
+    .team
+      width: 100%
+      height: auto
+
+    .clients
+      flex-wrap: wrap
+      justify-content: flex-start
+
+      img
+        margin: 15px 15px 0 0
+
+  footer
+
+    .green-button
+      display: block
+      text-align: center
+
+    .credits
+      text-align: center
