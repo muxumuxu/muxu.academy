@@ -1,0 +1,18 @@
+footer
+  .wrapper
+    h2 = t 'footer.details.track'
+    h2 = t 'footer.details.date'
+    .more 
+      .address 
+        = link_to t('footer.details.email.link')
+          = t 'footer.details.email.title'
+        p = t 'footer.details.address'
+        p = t 'footer.details.tel'
+      .transports
+        = link_to t('footer.details.plan.link'), target: "_blank"
+          = t 'footer.details.plan.title'
+        p = t 'footer.details.bus'
+        p = t 'footer.details.tram'
+    = link_to t('footer.join.link'), class: "green-button"
+      = t 'footer.join.title'
+    p.credits = t 'footer.muxu'

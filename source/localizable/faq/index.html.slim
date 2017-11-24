@@ -1,0 +1,7 @@
+.wrapper.faq
+  h1 = t 'faq.title'
+  .questions.flex
+    - t('faq.questions').each do |id, question|
+      .question 
+        h3 = question[:question]
+        p = question[:answer]

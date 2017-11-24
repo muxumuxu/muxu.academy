@@ -3,7 +3,8 @@
     .content
       h3 = t 'hero.track'
       h1 = t 'hero.title'
-      = link_to t('join.link'), class: "purple-button"
+      = image_tag "hero-illustration.png", class: "illustration"
+      = link_to t('hero.join.link'), class: "green-button"
         = t 'hero.join.title'
       p.smaller = t 'hero.join.more'
 
@@ -31,3 +32,12 @@
     = image_tag "lattice-logo.png", class: "lattice"
     = image_tag "reech-logo.png", class: "reech"
     = image_tag "backtracks-logo.png", class: "backtracks"
+
+.wrapper.workplace
+  h3 = t 'workplace.subtitle'
+  h2 = t 'workplace.title'
+  .pictures.flex 
+    .left.flex
+      = image_tag "office-1.png", class: "office-1"
+      = image_tag "office-2.png", class: "office-2"
+    = image_tag "office-3.png", class: "office-3"
