@@ -2,7 +2,9 @@ header.flex
   .left
     = link_to "/", class: "logo"
       = image_tag "logo.svg"
-  .right
+  .right.menu-items#menu
+    = link_to "javascript:void(0);", onclick: "toggleMenu()", class: "menu" 
+        = "Menu"
     ul
       - t('navigation').each do |id, item|
        li
