@@ -14,35 +14,32 @@ fr:
       link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
 
   hero:
-    title: Approfondi le design de produit en pratiquant régulièrement avec l’équipe Muxu.Muxu
+    title: Approfondis le design de produit en pratiquant régulièrement avec l’équipe Muxu.Muxu
     track: Design de produit
     join:
-      title: Postule pour 12 semaines de formation non intensives
+      title: Postule maintenant
       link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
-      more: Oui oui, non intensives, l'idée est que tu puisses apprendre et surtout appliquer.
+      more: Du 16 janvier au 27 avril, tous les mardi de 19h à 21h, apprends et applique de nouvelles méthodologies.
 
   about:
-    title: Un espace pour<br>se développer et explorer
-    description: Tu vas bientôt terminer tes études ? Tu viens d'être embauché en tant que junior dans une agence ou bien tu commences une activité en autoentrepreneur ?
-    subtitle: Se développer
+    title: Un trimestre pour<br>se développer
+    description: Tu vas bientôt terminer tes études ?<br>Tu commences ta carrière ?<br>Tu te lances en indépendant ?<br>Tu as déjà plusieurs années d'expérience ?<br>La Muxu.Academy est faite pour toi !
+    subtitle: Muxu.Academy
     sections:
       studio:
-        title: Pense comme en studio
-        description: Apprendre chez Muxu.Muxu c'est accéder aux conseils et à l'expérience d'une team chevronnée, dans la bonne humeur et la détente !
-      methodology:
-        title: Adopte une méthodologie
-        description: Soutient, méthodologie, conseil, perfectionnement, la muxu Academy te donne le coup de pouce dont tu as besoin et t'entoure d'une équipe aussi cool que professionnelle !
+        title: Acquiert les bons réflexes
+        description: Apprendre avec Muxu.Muxu c'est accéder aux conseils et au savoir-faire d'une équipe expérimentée dans la bonne humeur et la détente.
       workplace:
-        title: Un cadre de rêve
-        description: Les élèves sont accueillis dans les locaux de l'agence Muxu.Muxu, parmis cactus et crayon géant.
+        title: Etudie dans un cadre agréable
+        description: Tu es accueilli dans les locaux de Muxu.Muxu parmi cactus et crayon géant. Lors des sessions, tu travailleras sur le matériel que nous utilisons quotidiennement.
       results:
         title: Petits groupes, gros résultats
-        description: Les séances se font par groupes de 6 maximum pour favoriser l'échange et la transparence.
+        description: Les cours se font par groupes de 6 maximum pour t'apporter un accompagnement personnalisé.
 
   team:
     title: Qui sommes-nous ?
     company: Muxu.Muxu
-    description: Tu vas bientôt terminer tes études ? Tu viens d'être embauché en tant que junior dans une agence ou bien tu commences une activité en autoentrepreneur ?
+    description: Nous aidons des équipes qui nous inspirent à imaginer, réaliser et lancer leur projet. Nous concevons aussi nos propres produits.
 
   workplace:
     title: Bienvenue au Muxu.Plex
@@ -50,7 +47,7 @@ fr:
 
   program:
     title: Design d'interface
-    description: 2h de cours par semaine du 1er janvier 2017 au 1er mars 2017<br><br>Etude du traitement d'une demande de design d'interface, depuis le brief jusqu'à la présentation. Le cours peut s'appuyer sur un projet personnel ou un exemple choisi au hasard.
+    description: Du 16 janvier au 27 avril, tous les mardi de 19h à 21h.<br><br>Etude du traitement d'une demande de design d'interface, depuis le brief jusqu'à la présentation.<br><br>Le cours peut s'appuyer sur un projet personnel ou un exemple choisi au hasard.
     details:
       brief:
         title: Prise de brief
@@ -77,8 +74,8 @@ fr:
         link: https://dribbble.com/lucchaissac
 
   pricing:
-    title: Un prix abordable
-    description: Nous tenons à ce que la Muxu Academy soit le plus abordable possible pour des étudiants. Nous n’avons pas de bourse mais nous restons ouvert à la discussion.
+    title: Un tarif abordable
+    description: Les connaissances sont faites pour être partagées, c'est pour cette raison que nous souhaitons que la Muxu.Academy soit accessible à toutes et à tous.
     price: 720€
     ttc: TTC
     payment: Payable en 3 mensualités de 240€ TTC.
@@ -88,30 +85,33 @@ fr:
     title: Des questions ?
     questions:
       material:
-        question: Quel matériel il te faut pour assister aux cours ?
-        answer: Il faut apporter ton ordinateur personnel, sur place tu auras un bureau ajustable et un écran.
+        question: Quel matériel me faut-il pour assister aux cours ?
+        answer: Il faut que tu apportes ton ordinateur personnel. Sur place, tu auras un bureau ajustable et un écran.
       cost:
-        question: Combien ça coûte d'étudier à la Muxu Academy ?
-        answer: "Design d'interface ou developpement : 720€ TTC<br>Trimestre payable en 3 mensualités de 240€ TTC.<br>Un nom de domaine d'une valeur de 50€ est offert pour toute inscription."
+        question: Combien ça coûte d'étudier à la Muxu.Academy ?
+        answer: 720€ TTC pour le trimestre payable en 3 mensualités de 240€ TTC. Un nom de domaine d'une valeur de 50€ te sera également offert.
       course:
-        question: Que vas-tu apprendre ?
-        answer: Etude du traitement d'une demande de design d'interface, depuis le brief jusqu'à la présentation. Le cours peut s'appuyer sur un projet personnel ou un exemple choisi au hasard.
+        question: Que vais-je apprendre ?
+        answer: Tu peux consulter le programme <a href="/program" style="color:#33CC33;">ici</a>.
+      recruitment:
+        question: Comment se déroule le recrutement ?
+        answer: Tu peux postuler <a href="https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit" target="_blank" style="color:#33CC33;">ici</a>. Nous allons examiner ta candidature et revenir vers toi le plus rapidement possible pour valider ou non ton inscription.
       payment:
         question: Quels sont les types de paiement acceptés ?
-        answer: "-"
+        answer: Tu peux payer par chèque ou virement bancaire.
       refund:
-        question: Les cours sont-ils remboursables ?
-        answer: Si tu te rends compte à l'issue du premier cours que la Muxu Academy ne correspond pas exactement à tes attentes ou que l'envie de prend soudainement de partir vivre en Australie, on te rembourse le montant correspondant aux cours auxquels tu ne pourras pas assister.
-      difference:
-        question: Qu'est-ce que la Muxu Academy a de différent des autres écoles de design ?
-        answer: Chez Muxu.Muxu on est adeptes de la transparence. On souhaite partager au maximum les connaissances à notre portée et les rendre accessibles à tous. On croit au potentiel de nos élèves et on met un point d'honneur à les aider à le développer. Choisir la Muxu Academy c'est s'assurer de recevoir un  enseignement individualisé et motivant, toujours dans la bonne humeur !
+        question: Si je suis obligé d'arrêter les cours, pourrez-vous me rembourser ?
+        answer: Ce n'est pas prévu, cependant chaque situation est différente et sera examinée avec toi.
+      projects:
+        question: Quels projets avez-vous déjà réalisés chez Muxu.Muxu ?
+        answer: Tu peux voir l'ensemble de notre travail <a href="https://www.muxumuxu.com/work" style="color:#33CC33;" target="_blank">ici</a>.
       muxu:
         question: Qui sommes-nous ?
-        answer: Muxu.Muxu est un studio de création graphique qui aident les start-up et les entreprises à imaginer, concevoir et lancer leur produit ou leur projet. On développe aussi nos propres produits.<br>L'esprit Muxu.Muxu en un mot ? Transparence. On s'attache avant tout à démocratiser la technologie à notre disposition et à développer de chouettes produits, accessibles à tous. On travaille toujours dans la détente et la bonne humeur !
+        answer: Tu as bien lu la <a href="/" style="color:#33CC33;">page d'accueil</a> non ? 😃
   footer:
     details:
       track: Track Design
-      date: "01 janvier 2017 / 01 mars 2017"
+      date: "16 janvier 2018 - 27 avril 2018"
       email:
         title: hello@muxu.academy
         link: mailto:hello@muxu.academy
@@ -123,7 +123,7 @@ fr:
       bus: Bus 9 Stade Chaban Delmas
       tram: Tram A Stade Chaban Delmas
     join:
-      title: Postuler maintenant
+      title: Postule maintenant
       link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
     muxu: |
       powered by <a href="https://muxumuxu.com" target="_blank">Muxu.Muxu</a>
