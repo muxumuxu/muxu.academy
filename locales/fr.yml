@@ -14,12 +14,12 @@ fr:
       link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
 
   hero:
-    title: Approfondis le design de produit en pratiquant concrètement avec l’équipe Muxu.Muxu
+    title: Approfondis le design de produit avec l’équipe Muxu.Muxu
     track: Design de produit
     join:
       title: Postule maintenant
       link: https://docs.google.com/forms/d/1wzaEQ2TkRtZDbnTR2uFQf8xZ_CRIZu0PTu4XD4Yy8Rs/edit
-      more: Du 16 janvier au 27 avril 2018, tous les mardi de 19h à 21h, apprends et appliques de nouvelles méthodologies.
+      more: Du 16 janvier au 27 avril 2018, tous les mardi de 19h à 21h, apprends et applique de nouvelles méthodologies.
 
   about:
     title: Un trimestre pour<br>se développer
@@ -79,7 +79,7 @@ fr:
     price: 720€
     ttc: TTC
     payment: Payable en 3 mensualités de 240€ TTC.
-    domain: Un nom de domaine d'une valeur de 50€ est offert pour toute inscription.
+    domain: Chaque étudiant reçoit un code coupon d'une valeur de 50€. À utiliser sur le service d'achat de noms de domaine Cactomain.
 
   faq:
     title: Des questions ?
