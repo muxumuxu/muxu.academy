@@ -79,7 +79,7 @@ fr:
     price: 720€
     ttc: TTC
     payment: Payable en 3 mensualités de 240€ TTC.
-    domain: Chaque étudiant reçoit un code coupon d'une valeur de 50€. À utiliser sur le service d'achat de noms de domaine Cactomain.
+    domain: Chaque étudiant reçoit un code coupon d'une valeur de 50€. À utiliser sur le service d'achat de noms de domaine <a href="https://cactomain.co/" style="color:#33CC33;" target="_blank">Cactomain</a>.
 
   faq:
     title: Des questions ?
@@ -89,7 +89,7 @@ fr:
         answer: Il faut que tu apportes ton ordinateur personnel. Sur place, tu auras un bureau ajustable et un écran.
       cost:
         question: Combien ça coûte d'étudier à la Muxu.Academy ?
-        answer: 720€ TTC pour le trimestre payable en 3 mensualités de 240€ TTC. Un nom de domaine d'une valeur de 50€ te sera également offert.
+        answer: 720€ TTC pour le trimestre payable en 3 mensualités de 240€ TTC. Chaque étudiant reçoit un code coupon d'une valeur de 50€. À utiliser sur le service d'achat de noms de domaine <a href="https://cactomain.co/" style="color:#33CC33;" target="_blank">Cactomain</a>.
       course:
         question: Que vais-je apprendre ?
         answer: Tu peux consulter le programme <a href="/program" style="color:#33CC33;">ici</a>.
